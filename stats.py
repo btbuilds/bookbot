@@ -21,4 +21,3 @@ def sort_dict(dict):
         list_of_dicts.append({"char": char, "num": count})
     list_of_dicts.sort(reverse=True, key=sort_on)
     return(list_of_dicts)
-    # return 
